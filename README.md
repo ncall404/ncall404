@@ -4,7 +4,7 @@
 Currently, I am a student at Utah Valley University (UVU). I'm studying Information Systems with an emphasis in Application Development! I am also minoring in Computer Science.
 
 ### Goals and Use of GitHub 📋
-For now, my GitHub profile is mainly being used for school assignments. I would, however, love to have some repositories for personal projects as soon as I can. I also hope to contribute to some open source projects at some point too!
+For now, my GitHub profile is mainly being used for school assignments and following projects I am interested in. I would, however, love to have some repositories for personal projects as soon as I can. I also hope to contribute to some open source projects at some point too!
 
 ### Interests 💻🎮
 Though I plan to do application development for my career (and am very interested in the subject), I am also interested in all sorts of technology. I enjoy keeping up on the latest in computer and gaming hardware as well as game development software.

@@ -1,24 +1,10 @@
 ## Hello there! I'm Nathan Call
 
 ### Current Status 📚
-Currently, I am a student at Utah Valley University (UVU). I'm studying Information Systems with an emphasis in Application Development. I am also minoring in Computer Science.
+I just graduated from Utah Valley University with a Bachelor of Science in Information Systems with an emphasis in Application Development and a minor in Computer Science. Now I'm working on some personal projects and doing some job searching.
 
 ### Goals and Use of GitHub 📋
-For now, my GitHub profile is mainly being used for school assignments and following projects I am interested in. I would, however, love to have some repositories for personal projects as soon as I can. I also hope to contribute to some open source projects at some point too!
+For now, my GitHub profile mainly contains school assignments and is used for following projects I am interested in. I will be using GitHub as a place to put my personal project repositories, however they will be private until I'm ready to show them off. I also hope to contribute to some open source projects at some point too!
 
 ### Interests 💻🎮
 Though I plan to do application development for my career (and am very interested in the subject), I am also interested in all sorts of technology. I enjoy keeping up on the latest in computer and gaming hardware as well as game development software.
-<!--
-**ncall404/ncall404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
